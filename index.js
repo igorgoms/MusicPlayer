@@ -14,24 +14,10 @@ const music = new Audio();
 
 const songs = [
     {
-        path:           'assets/1.mp3',
-        displayName:    'Я пошёл',
-        cover:          'assets/1.jpeg',
-        artist:         'Kostromin',
-    },
-
-    {
-        path:           'assets/2.mp3',
-        displayName:    'Benevolence',
-        cover:          'assets/2.png',
-        artist:         'Aaron Hibell',
-    },
-
-    {
-        path:           'assets/3.mp3',
-        displayName:    'The Revenge',
-        cover:          'assets/3.jpeg',
-        artist:         'Kuka Robot',
+        //path:           'add here music file',
+        //displayName:    'add music name',
+        //cover:          'add cover music file',
+        //artist:         'add artist name',
     },
 ];
 
